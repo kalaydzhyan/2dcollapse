@@ -1,3 +1,7 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccc
+c   Molecular dynamics for nuclear collisions
+ccccccccccccccccccccccccccccccccccccccccccccccccc
+
 #define    ndim    2
 c np must be even:
 #define    np      40
